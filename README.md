@@ -2,7 +2,7 @@
 
 ## What is QANX?
 
-QANX token is an ERC20/BEP20 compliant token optimized for trading on Decentralized Exchanges (DEX) with customizable locking and vesting options included.
+QANX Platform is an ERC20/BEP20 compliant token optimized for trading on Decentralized Exchanges (DEX) with customizable locking and vesting options included.
 
 A previous version of the QANX token was also prepared with a mapping designed to store Post-Quantum cryptography public key hashes, which will technically enable a direct migration from the ERC20 and BEP20 tokens to QANplatform's upcoming native mainnet units which will utilize PQ cryptography by default.
 
